@@ -1,0 +1,45 @@
+{
+  "name": "ai",
+  "version": "1.0.0",
+  "description": "AI technology project focused on creating innovative AI videos with a modern, stylish interface.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "axios": "^0.21.1",
+    "redux": "^4.1.0",
+    "react-redux": "^7.2.5",
+    "jest": "^26.6.0",
+    "next": "^14.2.5",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^3.4.4",
+    "autoprefixer": "^10.4.19"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "eslint-config-airbnb": "^18.2.1",
+    "eslint-plugin-import": "^2.23.4",
+    "eslint-plugin-react": "^7.27.0",
+    "typescript": "^5.4.5",
+    "@types/node": "^20.14.2",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0"
+  },
+  "keywords": [
+    "AI",
+    "technology",
+    "videos",
+    "modern",
+    "innovation"
+  ],
+  "author": "AI Team",
+  "license": "MIT",
+  "private": true
+}
